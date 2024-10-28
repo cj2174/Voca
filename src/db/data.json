@@ -1,33 +1,103 @@
 {
-    "days": [
-      {
-        "id": 1,
-        "day": 1
-      },
-      {
-        "id": 2,
-        "day": 2
-      },
-      {
-        "id": 3,
-        "day": 3
-      },
-      {
-        "day": 4,
-        "id": 4
-      }
-    ],
-    "words": [
-   { "id": 1, "day": 1, "eng": "book", "kor": "책", "isDone": false },
-   { "id": 3, "day": 2, "eng": "car", "kor": "자동차", "isDone": false },
-   { "id": 5, "day": 3, "eng": "school", "kor": "학교", "isDone": false },
-   { "id": 6, "day": 3, "eng": "pencil", "kor": "연필", "isDone": false },
-   { "day": 3, "eng": "window", "kor": "창문", "isDone": false, "id": 7 },
-   { "day": 3, "eng": "house", "kor": "집", "isDone": false, "id": 8 },
-   { "day": 2, "eng": "mouse", "kor": "쥐", "isDone": false, "id": 9 },
-   { "day": 4, "eng": "monkey", "kor": "원숭이", "isDone": false, "id": 10 },
-   { "day": 4, "eng": "apple", "kor": "사과", "isDone": false, "id": 11 },
-   { "day": 3, "eng": "apple", "kor": "사과", "isDone": false, "id": 12 }
-]
-
-  }
+  "days": [
+    {
+      "id": "1",
+      "day": 1
+    },
+    {
+      "id": "2",
+      "day": 2
+    },
+    {
+      "id": "3",
+      "day": 3
+    },
+    {
+      "day": 4,
+      "id": "4"
+    },
+    {
+      "id": "d1c7",
+      "day": 5
+    }
+  ],
+  "words": [
+    {
+      "id": "1",
+      "day": 1,
+      "eng": "book",
+      "kor": "책",
+      "isDone": false
+    },
+    {
+      "id": "3",
+      "day": 2,
+      "eng": "car",
+      "kor": "자동차",
+      "isDone": false
+    },
+    {
+      "id": "6",
+      "day": 3,
+      "eng": "pencil",
+      "kor": "연필",
+      "isDone": false
+    },
+    {
+      "day": 3,
+      "eng": "window",
+      "kor": "창문",
+      "isDone": true,
+      "id": "7"
+    },
+    {
+      "day": 3,
+      "eng": "house",
+      "kor": "집",
+      "isDone": false,
+      "id": "8"
+    },
+    {
+      "day": 4,
+      "eng": "monkey",
+      "kor": "원숭이",
+      "isDone": false,
+      "id": "10"
+    },
+    {
+      "day": 4,
+      "eng": "apple",
+      "kor": "사과",
+      "isDone": false,
+      "id": "11"
+    },
+    {
+      "day": 3,
+      "eng": "apple",
+      "kor": "사과",
+      "isDone": false,
+      "id": "12"
+    },
+    {
+      "id": "6a4f",
+      "day": "1",
+      "eng": "phone",
+      "kor": "휴대폰",
+      "isDone": false
+    },
+    {
+      "id": "170c",
+      "day": "3",
+      "eng": "rabbit",
+      "kor": "토끼",
+      "isDone": false
+    },
+    {
+      "id": "d005",
+      "day": "2",
+      "eng": "house",
+      "kor": "집",
+      "isDone": false
+    }
+  ]
+}
